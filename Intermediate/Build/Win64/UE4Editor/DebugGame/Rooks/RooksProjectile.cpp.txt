@@ -1,0 +1,11 @@
+F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\DebugGame\Rooks\Definitions.Rooks.h
+F:\programs\Unreal projects\Rooks\Source\Rooks\RooksProjectile.h
+F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Inc\Rooks\RooksProjectile.generated.h
+E:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+E:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+E:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+E:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+E:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+E:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+E:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+E:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h

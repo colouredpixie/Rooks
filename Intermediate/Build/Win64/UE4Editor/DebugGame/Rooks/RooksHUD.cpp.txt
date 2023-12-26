@@ -1,0 +1,17 @@
+F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\DebugGame\Rooks\Definitions.Rooks.h
+F:\programs\Unreal projects\Rooks\Source\Rooks\RooksHUD.h
+E:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+E:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+E:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+E:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+E:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Inc\Rooks\RooksHUD.generated.h
+E:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+E:\Games\UE_4.27\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+E:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+E:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+E:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+E:\Games\UE_4.27\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+E:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+E:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+E:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h
