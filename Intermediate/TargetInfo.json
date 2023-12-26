@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Rooks",
+			"Path": "F:\\programs\\Unreal projects\\Rooks\\Source\\Rooks.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RooksEditor",
+			"Path": "F:\\programs\\Unreal projects\\Rooks\\Source\\RooksEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

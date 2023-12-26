@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\programs\\Unreal projects\\Rooks\\Source\\Rooks\\Rooks.Build.cs",
+		"F:\\programs\\Unreal projects\\Rooks\\Source\\Rooks.Target.cs",
+		"F:\\programs\\Unreal projects\\Rooks\\Source\\RooksEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
