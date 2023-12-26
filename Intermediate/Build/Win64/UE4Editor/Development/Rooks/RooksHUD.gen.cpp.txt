@@ -1,0 +1,10 @@
+F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\Definitions.Rooks.h
+E:\Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\programs\Unreal projects\Rooks\Source\Rooks/RooksHUD.h
+E:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+E:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+E:\Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+E:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+E:\Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Inc\Rooks\RooksHUD.generated.h

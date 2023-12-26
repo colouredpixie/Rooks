@@ -1,0 +1,2 @@
+F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\Definitions.Rooks.h
+F:\programs\Unreal projects\Rooks\Source\Rooks\Rooks.h
