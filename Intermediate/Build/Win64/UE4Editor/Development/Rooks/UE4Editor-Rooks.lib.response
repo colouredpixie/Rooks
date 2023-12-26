@@ -1,0 +1,35 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Rooks.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\RooksEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\BTService_WatchOut.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\BTTask_Idle.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\BTTask_MoveToRandomLocation.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\BTTask_RandomLocation.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\BTTask_RotateToPlayer.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\Rook.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\RookAIController.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\Rooks.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\RooksCharacter.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\RooksGameMode.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\RooksHUD.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\RooksProjectile.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\BTService_WatchOut.gen.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\BTTask_Idle.gen.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\BTTask_MoveToRandomLocation.gen.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\BTTask_RandomLocation.gen.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\BTTask_RotateToPlayer.gen.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\Rook.gen.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\RookAIController.gen.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\Rooks.init.gen.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\RooksCharacter.gen.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\RooksGameMode.gen.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\RooksHUD.gen.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\RooksProjectile.gen.cpp.obj"
+"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\Default.rc2.res"
+/OUT:"F:\programs\Unreal projects\Rooks\Intermediate\Build\Win64\UE4Editor\Development\Rooks\UE4Editor-Rooks.lib"
