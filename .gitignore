@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+/.vs/Rooks/FileContentIndex
+/.vs/slnx.sqlite
+/Binaries/Win64
+/Build/WindowsNoEditor
+/.vs
+/Intermediate
+/Saved
+/Releases/1.0/WindowsNoEditor
