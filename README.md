@@ -1,7 +1,6 @@
 # Rooks
 
-A small demo of AI rooks walking around minding their bussiness.
-Unreal Engine 4.25 C++ and Blueprints
+A small demo of AI rooks walking around minding their bussiness (Unreal Engine 4.27 C++ and Blueprints)
 
 Includes features:
 - Fully animated models using Epic market assets
